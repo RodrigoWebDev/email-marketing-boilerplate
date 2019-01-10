@@ -1,32 +1,34 @@
-# email-boilerplate
+# email-marketing-boilerplate
 
-Esse é um pequeno boilerplate para desenvolvimento de email marketing. Ele inclui:
+This is a small boilerplate for email marketing development. It includes:
 
-* **Gulp.js:** Módulo do Node.js para automação do fluxo de desenvolvimento Front-end
-* **gulp-clean:** Plugin do Gulp que faz eliminação recursiva de arquivos
-* **gulp-htmlmin:** Plugin do Gulp que faz a minificação de arquivos HTML
-* **gulp-imagemin:** Plugin do Gulp que otimiza imagens
-* **gulp-inline-css:** Plugin do Gulp que pega todos os estilos dentro da tag "style" e coloca eles inline
+* **Gulp.js:** Node.js Module for Front-End Development Flow Automation
+* **gulp-clean:** Gulp plugin that does recursive deletion of files
+* **gulp-htmlmin:** Gulp plugin that minifies HTML files
+* **gulp-imagemin:** Gulp plugin that optimizes images
+* **gulp-inline-css:** Gulp plugin that takes all styles inside the "style" tag and places them inline
 
-## Como usar...
+## How to use...
 
 ```bash
 npm install
 ```
-Instala todas as dependências do projeto
+Installs all project dependencies
 
 ```bash
-npm run dev - Inicia o browser-sync para desenvolvimento ágil
+npm run dev
 ```
-Inicia o browser-sync para desenvolvimento ágil
+Starts browser-sync for agile development
 
 ```bash
 npm run gulp 
 ```
-Cria uma versão de produção do projeto com :
+Creates a production version of the project with:
 
-* Todo o CSS dentro de "style" fica inline
-* HTML minificado
-* Imagens otimizadas
+* All CSS within "style" gets inline
+* Minimized HTML
+* Optimized images
 
-Espero que goste! :)
+I hope you enjoy! :)
+
+
