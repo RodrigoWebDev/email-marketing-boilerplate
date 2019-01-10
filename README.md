@@ -7,6 +7,7 @@ This is a small boilerplate for email marketing development. It includes:
 * **gulp-htmlmin:** Gulp plugin that minifies HTML files
 * **gulp-imagemin:** Gulp plugin that optimizes images
 * **gulp-inline-css:** Gulp plugin that takes all styles inside the "style" tag and places them inline
+* **browser-sync:** Node.js module that refreshes a page when saving the file
 
 ## How to use...
 
