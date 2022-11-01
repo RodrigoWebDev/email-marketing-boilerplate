@@ -14,10 +14,10 @@
   "dependencies": {},
   "devDependencies": {
     "browser-sync": "^2.26.3",
-    "gulp": "^3.9.0",
+    "gulp": "^4.0.2",
     "gulp-clean": "^0.3.1",
     "gulp-htmlmin": "^5.0.1",
-    "gulp-imagemin": "^2.3.0",
+    "gulp-imagemin": "^2.4.0",
     "gulp-inline-css": "^3.3.1"
   }
 }
